@@ -1,7 +1,7 @@
 # AudioVisualizer_Fancy
 This is an audio visualizer in Javascript and p5js and it uses html and css to deploy to a frontend.
 
-#How to use
+# How to use
 1. Open a code editer to run JS or use VS code and install the p5js library.(The steps are for VS code editor)
 2. Download repo 
 3. Open command pallete and click create open processing folder
