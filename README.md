@@ -9,6 +9,6 @@ This is an audio visualizer in Javascript and p5js and it uses html and css to d
 5. Open command pallete and select run open processing file(which will create the relevent folders to deploy the JS code to frontend)
 6. Click GoLive at the bottom right of the editor
 
-#Quick demo
+# Quick demo
 Go to the following link for a demo of the repo on opeprocessing.org
 https://www.openprocessing.org/sketch/1004407/embed
